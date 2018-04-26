@@ -31,6 +31,7 @@ Prediction of drug-target interaction networks from the integration of chemical 
 **We include all the data here just for the sake of completeness.  
 
 **To run the code: 
+
 main.m   	(to predict the interactions)
 
 
