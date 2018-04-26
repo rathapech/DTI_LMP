@@ -1,4 +1,4 @@
-# Drug-Target Interaction prediction
+# Drug-Target Interaction Prediction
 The codes for predicting interactions between drugs and targets based on low-rank matrix projection on heterogeneous biological data. 
 
 The code is written by Ratha Pech. For comments, suggestions and questions, please contact me at ratha.pech(at)gmail.com 
