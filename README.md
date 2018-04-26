@@ -1,8 +1,7 @@
 # Drug-Target-Interaction-based-on-Low-Rank-Matrix-Projection (LMP)
 The codes for predicting interactions between drugs and targets based on low-rank matrix projection on heterogeneous biological data. 
 
-The code is written by Ratha Pech, 
-For comments, suggestions and questions, please contact me at ratha.pech(at)gmail.com 
+The code is written by Ratha Pech. For comments, suggestions and questions, please contact me at ratha.pech(at)gmail.com 
 
 Please cite the paper if you use this code: 
 "A generalized method toward drug-target interaction prediction via low-rank matrix projection "
