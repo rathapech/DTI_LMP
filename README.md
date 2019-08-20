@@ -4,7 +4,7 @@ The codes for predicting interactions between drugs and targets based on low-ran
 The code is written by Ratha Pech. For comments, suggestions and questions, please contact me at ratha.pech(at)gmail.com 
 
 Please cite the paper if you use this code: 
-"A generalized method toward drug-target interaction prediction via low-rank matrix projection "
+Pech, Ratha, et al. "A generalized method toward drug-target interaction prediction via low-rank matrix projection." arXiv preprint arXiv:1706.01876 (2017).
 
 There are 5 benchmark datasets in this implementation:
 1. Matador: contains only interaction information
